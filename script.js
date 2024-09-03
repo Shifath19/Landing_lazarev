@@ -194,3 +194,4 @@ page3VideoAnimation()
 page6Animations()
 
 loadingAnimation()
+;
